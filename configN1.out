@@ -1,0 +1,14 @@
+Semilla: 0
+Tolerancia relativa: 0.1
+
+Trafico 0:
+Probabilidad de bloqueo estimada: 0.186064
+	Confidence interval 1: (0.167639,0.204489) with coverage: 0.9
+	Confidence interval 2: (0.167458,0.20467) with coverage: 0.903495
+	Number of samples: 6616
+	Variance: 0.151467
+	Standard deviation: 0.389188
+	Maximum sample: 1
+	Minimum sample: 0
+
+

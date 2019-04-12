@@ -1,0 +1,47 @@
+Semilla: 100
+Tolerancia relativa: 0.01
+
+Trafico 0:
+Probabilidad de bloqueo estimada: 0.00917099
+	Confidence interval 1: (0.00909776,0.00924422) with coverage: 0.95
+	Confidence interval 2: (0.00907928,0.0092627) with coverage: 0.984383
+	Number of samples: 23973634
+	Variance: 0.00908689
+	Standard deviation: 0.0953252
+	Maximum sample: 1
+	Minimum sample: 0
+
+
+Trafico 1:
+Probabilidad de bloqueo estimada: 0.00913634
+	Confidence interval 1: (0.00904508,0.0092276) with coverage: 0.95
+	Confidence interval 2: (0.00904498,0.00922771) with coverage: 0.950334
+	Number of samples: 23965500
+	Variance: 0.00905287
+	Standard deviation: 0.0951466
+	Maximum sample: 1
+	Minimum sample: 0
+
+
+Trafico 2:
+Probabilidad de bloqueo estimada: 0.00910295
+	Confidence interval 1: (0.00902546,0.00918044) with coverage: 0.95
+	Confidence interval 2: (0.00901192,0.00919398) with coverage: 0.977354
+	Number of samples: 23965424
+	Variance: 0.00902008
+	Standard deviation: 0.0949741
+	Maximum sample: 1
+	Minimum sample: 0
+
+
+Trafico 3:
+Probabilidad de bloqueo estimada: 0.00910621
+	Confidence interval 1: (0.00902896,0.00918346) with coverage: 0.95
+	Confidence interval 2: (0.00901515,0.00919727) with coverage: 0.977932
+	Number of samples: 23975176
+	Variance: 0.00902329
+	Standard deviation: 0.094991
+	Maximum sample: 1
+	Minimum sample: 0
+
+

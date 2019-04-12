@@ -1,0 +1,1 @@
+./SimRedMMkk -s 100 -q 0.95 -t 0.01 config2N1N2N3

@@ -1,0 +1,11 @@
+Semilla: 100
+Tolerancia relativa: 0.01
+
+0.0102282
+	Confidence interval 1: (0.0101314,0.010325) with coverage: 0.95
+	Confidence interval 2: (0.0101259,0.0103305) with coverage: 0.960995
+	Number of samples: 94371840
+	Variance: 0.0101236
+	Standard deviation: 0.100616
+	Maximum sample: 1
+	Minimum sample: 0
